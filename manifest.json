@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "chatgpt-next-plugin",
+	"name": "ChatGPT Next Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "这是ChatGPT Next的插件，它可以帮助你在Obsidian中使用ChatGPT Next。",
+	"author": "Yuan Donghao",
+	"authorUrl": "https://github.com/ydonghao",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
